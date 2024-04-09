@@ -7,7 +7,8 @@ or
 
 YYYY-MM-DD-sahika-poster-artistname1-artistname2.png
 
-contributig via e-mail
+### contributig via e-mail.
+
 e-mail the image with the same name formatting to sahikaistanbul@gmail.com
 
 e-mail subject: "4 THE ARCHIVE"
